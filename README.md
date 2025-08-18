@@ -9,19 +9,6 @@ Eu sou <b>Pablo Daniloe</b>, desenvolvedor(a) Front-end focado(a) em **HTML, CSS
 Gosto de criar interfaces limpas, acessíveis e performáticas.  
 Atualmente construo projetos próprios, freelas e estudos práticos publicados aqui no GitHub.
   
-<p align="left">
-  <a href="https://www.youtube.com/@<seu-canal>">
-    <img src="https://img.shields.io/badge/INSCREVA--SE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=<seu-usuario>&label=VIEWS&style=for-the-badge" />
-  <a href="https://github.com/<seu-usuario>?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/ESTRELAS-⭐-brightgreen?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/<seu-usuario>?tab=followers">
-    <img src="https://img.shields.io/badge/SEGUIDORES-🧑‍💻-1e90ff?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ### 🔧 Linguagens e Tecnologias
