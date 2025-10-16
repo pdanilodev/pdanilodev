@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ROBOTECH #26914 — Equipe de Robótica FTC</title>
+    <meta name="description" content="ROBOTECH #26914 - Equipe de robótica FTC unindo engenharia, criatividade e espírito FIRST para inspirar novas gerações.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+     <!-- ÍCONE DO SITE (FAVICON) -->
+<link rel="icon" type="image/png" href="imagens/icon.png">
+    
+   <!-- Navbar Minimalista com Glassmorphism -->
+<nav class="navbar" id="navbar">
+    <div class="nav-container">
+        <a href="#home" class="nav-link active">
+            <span class="nav-icon">
+                <svg viewBox="0 0 24 24">
+                    <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                    <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                </svg>
+            </span>
+            <span class="nav-text">Home</span>
+        </a>
+        
+        <a href="#about" class="nav-link">
+            <span class="nav-icon">
+                <svg viewBox="0 0 24 24">
+                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                    <circle cx="9" cy="7" r="4"></circle>
+                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                </svg>
+            </span>
+            <span class="nav-text">Quem Somos</span>
+        </a>
+        
+        <a href="#projects" class="nav-link">
+            <span class="nav-icon">
+                <svg viewBox="0 0 24 24">
+                    <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                </svg>
+            </span>
+            <span class="nav-text">Projetos</span>
+        </a>
+        
+        <a href="#sponsors" class="nav-link">
+            <span class="nav-icon">
+                <svg viewBox="0 0 24 24">
+                    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                </svg>
+            </span>
+            <span class="nav-text">Patrocinadores</span>
+        </a>
+        
+        <a href="#contact" class="nav-link">
+            <span class="nav-icon">
+                <svg viewBox="0 0 24 24">
+                    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                    <polyline points="22,6 12,13 2,6"></polyline>
+                </svg>
+            </span>
+            <span class="nav-text">Contato</span>
+        </a>
+    </div>
+</nav>
+
+   <!-- Hero Section COM CHUVA DENTRO -->
+<section id="home" class="hero">
+    <!-- Efeito de chuva APENAS no hero -->
+    <div class="rain-wrapper">
+        <div class="rain front-row"></div>
+        <div class="rain back-row"></div>
+    </div>
+    
+    <div class="hero-background">
+        <div class="particles"></div>
+    </div>
+    
+    <div class="hero-container">
+        <div class="hero-content">
+            <h1 class="hero-title">
+                ROBOTECH #26914 <span class="highlight">INSPIRAÇÃO, INCLUSÃO E INOVAÇÃO</span>
+            </h1>
+            <p class="hero-subtitle">
+                Alguém cansado? Ninguém cansado!
+            </p>
+            <div class="hero-buttons">
+                <button class="btn-primary">Conheça a Equipe</button>
+                <button class="btn-secondary">Nossos Projetos</button>
+            </div>
+        </div>
+        <div class="hero-visual">
+            <img src="imagens/robo.png" alt="Robô flutuante" class="robot-float">
+        </div>
+    </div>
+</section>
+
+    <!-- Achievements Section -->
+    <section class="achievements">
+        <div class="container">
+            <div class="achievements-grid">
+                <div class="achievement-card">
+                    <div class="achievement-number">10+</div>
+                    <div class="achievement-text">Projetos Desenvolvidos</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-number">14+</div>
+                    <div class="achievement-text">Integrantes Ativos</div>
+                </div>
+                <div class="achievement-card">
+                    <div class="achievement-number">7+</div>
+                    <div class="achievement-text">Premiações e Reconhecimentos</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Quem Somos</h2>
+                <p class="section-subtitle">Unidos por um propósito: inspirar através da robótica</p>
+            </div>
+            <div class="about-content">
+                <div class="about-text">
+                    <p class="about-description">
+                        A ROBOTECH #26914 é dedicada a criar robôs competitivos de alta qualidade para o FIRST Tech Challenge. 
+                        Criamos um ambiente inclusivo onde todos podem experimentar a robótica competitiva, 
+                        ganhando habilidades valiosas de mentores e outros estudantes que durarão uma vida inteira.
+                    </p>
+                    <div class="highlighted-phrases">
+                        <span class="phrase-highlight">robótica competitiva</span>
+                        <span class="phrase-label">FIRST TECH CHALLENGE</span>
+                        <span class="phrase-highlight">mentores & outros estudantes</span>
+                        <span class="phrase-label">ROBOTECH</span>
+                    </div>
+                </div>
+                <div class="team-photo">
+                    <div class="photo-placeholder">
+                        <span>📸 Foto da Equipe</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Members Section -->
+    <section class="team-members">
+        <div class="container">
+            <h3 class="subsection-title">Nossa Equipe</h3>
+            <div class="members-grid">
+                <div class="member-card">
+                    <div class="member-photo">
+                        <div class="photo-placeholder">👨‍💻</div>
+                    </div>
+                    <h4 class="member-name">João Silva</h4>
+                    <p class="member-role">Capitão da Equipe</p>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">
+                        <div class="photo-placeholder">👩‍💻</div>
+                    </div>
+                    <h4 class="member-name">Maria Santos</h4>
+                    <p class="member-role">Engenheira de Software</p>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">
+                        <div class="photo-placeholder">👨‍🔧</div>
+                    </div>
+                    <h4 class="member-name">Pedro Costa</h4>
+                    <p class="member-role">Engenheiro Mecânico</p>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">
+                        <div class="photo-placeholder">👩‍🎨</div>
+                    </div>
+                    <h4 class="member-name">Ana Oliveira</h4>
+                    <p class="member-role">Designer & Marketing</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Robot Section -->
+    <section id="robot" class="robot">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Nosso Robô</h2>
+                <p class="section-subtitle">Into the Deep - Temporada 2024</p>
+            </div>
+            <div class="robot-content">
+                <div class="robot-info">
+                    <h3 class="robot-name">Into the Deep</h3>
+                    <p class="robot-description">
+                        Nosso robô representa o resultado de ciclos iterativos de engenharia, criatividade e trabalho em equipe. 
+                        Projetado para enfrentar os desafios da temporada "Into the Deep", incorpora inovações em sistemas de 
+                        manipulação, navegação autônoma e estratégia de jogo.
+                    </p>
+                    <div class="robot-features">
+                        <div class="feature">
+                            <h4>🎯 Sistema de Shooter</h4>
+                            <p>Precisão e velocidade para marcar pontos</p>
+                        </div>
+                        <div class="feature">
+                            <h4>🤖 Intake Inteligente</h4>
+                            <p>Coleta eficiente de elementos do jogo</p>
+                        </div>
+                        <div class="feature">
+                            <h4>🧭 Navegação Autônoma</h4>
+                            <p>Movimentação precisa e estratégica</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="robot-gallery">
+                    <div class="robot-image">
+                        <div class="image-placeholder">🤖 Imagem do Robô</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Projetos e Iniciativas</h2>
+                <p class="section-subtitle">Inovação além da competição</p>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <div class="project-image">
+                        <div class="image-placeholder">🎓 Oficinas STEAM</div>
+                    </div>
+                    <div class="project-info">
+                        <h3 class="project-name">Oficinas STEAM</h3>
+                        <p class="project-description">Workshops de robótica para estudantes da comunidade</p>
+                        <span class="project-year">2024</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image">
+                        <div class="image-placeholder">🤝 Programa de Mentoria</div>
+                    </div>
+                    <div class="project-info">
+                        <h3 class="project-name">Programa de Mentoria</h3>
+                        <p class="project-description">Apoio a equipes iniciantes no FTC</p>
+                        <span class="project-year">2023</span>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <div class="project-image">
+                        <div class="image-placeholder">📊 Sistema de Telemetria</div>
+                    </div>
+                    <div class="project-info">
+                        <h3 class="project-name">Sistema de Telemetria</h3>
+                        <p class="project-description">Desenvolvimento de software para análise de dados</p>
+                        <span class="project-year">2024</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sponsors Section -->
+    <section id="sponsors" class="sponsors">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Patrocinadores</h2>
+                <p class="section-subtitle">Juntos, impulsionamos o futuro da robótica</p>
+            </div>
+            <div class="sponsors-container">
+                <div class="sponsors-track">
+                    <div class="sponsors-grid">
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="NASA"></div>
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/SpaceX-Logo.svg" alt="SpaceX"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino"></div>
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="NVIDIA"></div>
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo-2013-GitHub.svg" alt="GitHub"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Unity_Technologies_logo.svg" alt="Unity"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Autodesk_Logo.svg" alt="Autodesk"></div>
+                    </div>
+                    <!-- Duplicar para rolagem contínua -->
+                    <div class="sponsors-grid">
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="NASA"></div>
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/SpaceX-Logo.svg" alt="SpaceX"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Intel-logo.svg" alt="Intel"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino"></div>
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="NVIDIA"></div>
+                        <div class="sponsor-card" data-tier="gold"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo-2013-GitHub.svg" alt="GitHub"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord"></div>
+                        <div class="sponsor-card" data-tier="bronze"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Unity_Technologies_logo.svg" alt="Unity"></div>
+                        <div class="sponsor-card" data-tier="silver"><img class="sponsor-logo-img" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Autodesk_Logo.svg" alt="Autodesk"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Contato</h2>
+                <p class="section-subtitle">Vamos construir o futuro juntos</p>
+            </div>
+            <div class="contact-content">
+                <div class="contact-form">
+                    <form>
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" placeholder="Nome" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" placeholder="E-mail" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" name="message" placeholder="Mensagem" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="btn-primary">Enviar Mensagem</button>
+                    </form>
+                </div>
+                <div class="contact-info">
+                    <div class="social-links">
+                        <a href="#" class="social-link">
+                            <span class="social-icon">📷</span>
+                            Instagram
+                        </a>
+                        <a href="#" class="social-link">
+                            <span class="social-icon">📺</span>
+                            YouTube
+                        </a>
+                        <a href="#" class="social-link">
+                            <span class="social-icon">💼</span>
+                            LinkedIn
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
