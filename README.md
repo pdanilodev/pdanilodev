@@ -1,31 +1,40 @@
-# ProjectOS — Frontend v1
+<h2 align="left">Hi 👋! My name is Danilo and I'm a Front-End Developer</h2>
 
-Kanban + workspace inspirado em Notion/Trello. Feito com **React + TypeScript + Vite + Tailwind**.
+###
 
-## Rodar localmente
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouzad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouzad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-```bash
-npm i
-npm run dev
-```
+###
 
-Abrirá em `http://localhost:5173`.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-## Build
-```bash
-npm run build && npm run preview
-```
+###
 
-## Principais libs
-- @dnd-kit/core, @dnd-kit/sortable — drag & drop
-- framer-motion — microinterações
-- recharts — gráfico de pizza
-- lucide-react — ícones
-- tailwindcss — estilos
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## Estrutura
-- `src/App.tsx` — UI principal (boards, cards, analytics)
-- `src/main.tsx` — bootstrap React
-- `src/index.css` — Tailwind
+###
 
-Próximos passos sugeridos: páginas de projeto (docs), calendário e comentários em tempo real.
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/snake.svg" alt="Snake animation" />
+
+###
