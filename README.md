@@ -1,31 +1,35 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+👋 Hello, I'm Pdanilo
+👨‍💻 Front-End Developer
 
-<p align="left"> 
-  I'm a Front-End Developer passionate about creating modern and responsive web interfaces.
-Currently, <strong>I'm studying and building projects using React</strong>.<br>
-  to sharpen my skills and explore new technologies in web development.
-</p>
+Apaixonado por criar interfaces modernas, animações sutis e experiências digitais que unem design + performance + fluidez.
 
-<p align="left">
-  🦄 Linguagens: **HTML | CSS | JavaScript | React**
-</p>
+Trabalho diariamente com front-end, UI/UX, responsividade e microinterações — buscando sempre entregar componentes limpos, acessíveis e consistentes.
 
-<p align="left">
-  💼 Ferramentas: **VS Code | Git | GitHub | Figma | Vite  .**
-</p>
+🚀 Tech Stack
+<div style="display: flex; gap: 10px; align-items: center;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> </div>
+🌌 Sobre mim
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+Desenvolvedor front-end focado em components-driven e UI moderna
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/
+Experiência com interfaces responsivas e animações leves
+
+Estudo constante para melhorar performance, estrutura e estética
+
+Gosto de criar projetos limpos, elegantes e fáceis de entender
+
+Meu foco é transformar ideias em interfaces que realmente façam sentido.
+
+🧩 Projetos que gosto de construir
+
+Portfólios modernos
+
+Landing pages minimalistas
+
+Dashboards responsivos
+
+Sistemas internos com UX clara
+
+Interfaces com micro animações (hover, shine, transitions)
+
+📫 Onde me encontrar
+<a href="https://github.com/pdanilodev" target="_blank"> <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> &nbsp;@pdanilodev </a> <br/> <a href="https://www.linkedin.com/in/pablo-danilo/" target="_blank"> <img height="28" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" /> &nbsp;Pablo Danilo </a> <br/> <a href="mailto:pablodanilo2007@gmail.com"> <img height="28" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" /> &nbsp;pablodanilo2007@gmail.com </a>
