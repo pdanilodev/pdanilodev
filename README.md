@@ -110,9 +110,5 @@ Eu busco criar interfaces que:
 
 <div align="center">
 
-### ✨ “Criar interfaces não é sobre código.  
-É sobre sensação.”  
-
-Feito com ☕ + 💜
 
 </div>
