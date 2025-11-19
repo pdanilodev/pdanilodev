@@ -1,114 +1,86 @@
+<!-- HEADER GRADIENTE MODERNO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pablo%20Danilo%20🚀&fontAlign=50&fontAlignY=35&color=0:00C853,100:1DE9B6&fontColor=ffffff&fontSize=45&desc=Front-end%20Developer%20|%20UI%2FUX%20Design%20|%20React%20%26%20Tailwind&descAlignY=55&descAlign=50&animation=fadeIn"/>
+
 <div align="center">
 
-# 👋 Hi, I'm **Pdanilo**
-
-### 🧑‍💻 Front-End Developer  
-Crio interfaces modernas, fluidas e com um encaixe perfeito entre **design + performance**.  
-Transformo ideias em experiências digitais limpas, agradáveis e responsivas.
-
-<br/>
-
-## 🚀 Tech Stack
-
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-<img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-AQUI)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-Online-00C853?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
----
+# 👋 Olá! Eu sou **Pablo Danilo**
 
-# 🎨 Sobre mim
+Sou **desenvolvedor front-end** focado em criar interfaces modernas, responsivas e extremamente bem estruturadas usando:
 
-Sou um desenvolvedor **front-end** especializado em criar interfaces:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React.js**
+- **TailwindCSS**
+- **Figma (UI/UX Design)**
 
-- minimalistas  
-- animadas suavemente  
-- intuitivas  
-- com tipografia elegante  
-- e foco total na experiência do usuário  
-
-Minha filosofia:  
-**“UI bonita não é a mais chamativa, é a mais equilibrada.”**
-
-Trabalho com:  
-- páginas altamente responsivas  
-- componentes reutilizáveis  
-- micro interações inteligentes  
-- organização e clareza de código  
-- design simples, direto e moderno  
+Atualmente, estou construindo projetos profissionais que combinam **design e desenvolvimento**, além de liderar iniciativas de tecnologia e robótica educacional como a **RoboLab** e projetos da equipe **Space Tech Robotics**.
 
 ---
 
-# 🧩 O que eu gosto de construir
-
-✔ Portfólios modernos  
-✔ Interfaces premium (estilo Vercel/Linear/Notion)  
-✔ Dashboards funcionais  
-✔ Landing pages minimalistas  
-✔ Sistemas internos com UX clara  
-✔ Animações sutis (hover, shine, transitions)  
-
----
-
-# 🌌 Filosofia de desenvolvimento
-
-> “A experiência do usuário deve ser sentida, não explicada.”
-
-Eu busco criar interfaces que:
-
-- carregam rápido  
-- se movem com suavidade  
-- são fáceis de navegar  
-- parecem “caras”, mesmo sendo simples  
-- passam credibilidade só com o layout  
-
----
-
-# 📈 GitHub Insights
-
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=pdanilodev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 📫 Onde me encontrar
+## 🧰 Tecnologias & Ferramentas
 
 <div align="left">
 
-<a href="https://github.com/pdanilodev" target="_blank">
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  &nbsp;**@pdanilodev**
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/pablo-danilo/" target="_blank">
-  <img height="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" style="filter: invert(100%)" />
-  &nbsp;**Pablo Danilo**
-</a>
-
-<br/><br/>
-
-<a href="mailto:pablodanilo2007@gmail.com">
-  <img height="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" style="filter: invert(100%)" />
-  &nbsp;**pablodanilo2007@gmail.com**
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
+## 🎨 UI/UX Design (Figma)
 
+Desenvolvo protótipos modernos e interfaces completas:
 
-</div>
+- Design de landing pages  
+- Sistemas web  
+- Dashboards  
+- Identidade visual  
+- Componentização de interfaces  
+
+*(Aqui vou colocar suas imagens assim que você me enviar quais usar)*
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 **RoboLab — Plataforma Educacional de Robótica**
+Criação de telas, protótipos, logo e identidade visual.  
+Desenvolvimento do site em **HTML, CSS, JS e React**.
+
+### 🔹 **Portfólio Pessoal (em desenvolvimento)**
+Um site moderno inspirado em referências como **The Future School, Apple e Framer**.
+
+### 🔹 **Space Tech Robotics — Identidade Visual + UI**
+Criação de artes, layouts e telas internas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p>
+  <img
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+
+  <img 
+     align="left" 
+     alt="GitHub Stats" 
+     height="200" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
