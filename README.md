@@ -1,5 +1,10 @@
-<!-- HEADER GRADIENTE MODERNO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pablo%20Danilo%20🚀&fontAlign=50&fontAlignY=35&color=0:00C853,100:1DE9B6&fontColor=ffffff&fontSize=45&desc=Front-end%20Developer%20|%20UI%2FUX%20Design%20|%20React%20%26%20Tailwind&descAlignY=55&descAlign=50&animation=fadeIn"/>
+
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pablo%20Danilo&fontAlign=50&fontAlignY=40&color=0:00C853,100:1DE9B6&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+
+<h2 align="center">🚀 Desenvolvedor Front-end</h2>
+
+
 
 <div align="center">
 
