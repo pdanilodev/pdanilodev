@@ -1,91 +1,112 @@
+<br><br><br>
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pablo%20Danilo&fontAlign=50&fontAlignY=40&color=0:00C853,100:1DE9B6&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<div align="center">
+  <img 
+    align="center" 
+    height="140" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+  />
+</div>
 
-<h2 align="center">🚀 Desenvolvedor Front-end</h2>
+<div align="center">
+  <b>`フ ロ ン ト エ ン ド`</b>
+  <samp>
+    <br>
+    Hi there! I'm <b>Pablo Danilo</b>
+  </samp>
+</div>
 
+<div align="center" width="100%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Front-end+Developer;HTML+CSS+JavaScript;React+and+TypeScript;Building+clean+and+modern+interfaces;Be+welcome!" 
+    alt="Typing SVG"
+  />
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/kami_♡-black" />
+</div>
+
+<br><br>
+
+---
+
+### ✦ About me
+
+<samp>
+
+• 💻 Front-end Developer  
+• 🎨 Focused on modern, clean and responsive interfaces  
+• ⚡ Passionate about UI, UX and web performance  
+• 🧠 Constantly learning and improving  
+• 🌙 Lover of dark themes and minimal design  
+
+</samp>
+
+---
+
+<br>
+
+<div align="center">
+  <img 
+    height="165" 
+    align="center" 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
+  />
+  <img 
+    height="180" 
+    align="center" 
+    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&title_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
+  />
+</div>
+
+---
+
+### ✦ Tech Stack
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+</div>
+
+<br><br>
+
+---
+
+<details align="center">
+  <summary>
+    <samp><b>More Info</b></samp>
+  </summary>
+
+<br>
+
+### ✦ Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-AQUI)
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-Online-00C853?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-755b25?style=for-the-badge&logo=github&logoColor=fff)](SEU_GITHUB)
 
 </div>
 
-# 👋 Olá! Eu sou **Pablo Danilo**
-
-Sou **desenvolvedor front-end** focado em criar interfaces modernas, responsivas e extremamente bem estruturadas usando:
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React.js**
-- **TailwindCSS**
-- **Figma (UI/UX Design)**
-
-Atualmente, estou construindo projetos profissionais que combinam **design e desenvolvimento**, além de liderar iniciativas de tecnologia e robótica educacional como a **RoboLab** e projetos da equipe **Space Tech Robotics**.
+<br>
+</details>
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🎨 UI/UX Design (Figma)
-
-Desenvolvo protótipos modernos e interfaces completas:
-
-- Design de landing pages  
-- Sistemas web  
-- Dashboards  
-- Identidade visual  
-- Componentização de interfaces  
-
-*(Aqui vou colocar suas imagens assim que você me enviar quais usar)*
-
----
-
-## 🚀 Projetos em Destaque
-
-### 🔹 **RoboLab — Plataforma Educacional de Robótica**
-Criação de telas, protótipos, logo e identidade visual.  
-Desenvolvimento do site em **HTML, CSS, JS e React**.
-
-### 🔹 **Portfólio Pessoal (em desenvolvimento)**
-Um site moderno inspirado em referências como **The Future School, Apple e Framer**.
-
-### 🔹 **Space Tech Robotics — Identidade Visual + UI**
-Criação de artes, layouts e telas internas.
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p>
-  <img
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-
+<div align="center">
   <img 
-     align="left" 
-     alt="GitHub Stats" 
-     height="200" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=flat-square&color=755b25" 
+    alt="Profile Views"
   />
-</p>
+</div>
+
+<br><br><br>
