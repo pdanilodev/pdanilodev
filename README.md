@@ -92,9 +92,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](SEU_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-755b25?style=for-the-badge&logo=github&logoColor=fff)](SEU_GITHUB)
+[![Email](https://img.shields.io/badge/Email-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](pablodanilo2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](pablo-danilo-974587335)
+[![GitHub](https://img.shields.io/badge/GitHub-755b25?style=for-the-badge&logo=github&logoColor=fff)](pdanilodev)
 
 </div>
 
