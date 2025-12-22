@@ -55,13 +55,13 @@
     height="165" 
     align="center" 
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=pdanilodev&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
   />
   <img 
     height="180" 
     align="center" 
     alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&title_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&hide_border=true&title_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
   />
 </div>
 
