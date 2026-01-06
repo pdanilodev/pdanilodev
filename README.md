@@ -105,7 +105,7 @@
 
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=flat-square&color=755b25" 
+    src="https://komarev.com/ghpvc/?username=pdanilodevB&style=flat-square&color=755b25" 
     alt="Profile Views"
   />
 </div>
