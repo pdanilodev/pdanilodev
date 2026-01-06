@@ -2,10 +2,9 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+Sou Desenvolvedor Front-End, com forte interesse em criar interfaces modernas, funcionais e bem estruturadas. Minha paixão por tecnologia começou cedo, o que me levou a explorar programação e desenvolvimento de produtos digitais de forma contínua.
+Participei ativamente de equipes de robótica, projetos sociais e iniciativas ligadas à tecnologia e educação, experiências que fortaleceram minhas habilidades em trabalho em equipe, liderança, resolução de problemas e pensamento crítico.
+Tenho como objetivo evoluir constantemente como desenvolvedor, aprofundando minha base técnica e construindo soluções que unam design, performance e impacto real, sempre com foco em qualidade, aprendizado contínuo e boas práticas de desenvolvimento.
 
 ## Minhas Skills
 
