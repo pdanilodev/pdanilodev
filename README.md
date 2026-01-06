@@ -1,5 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=pdanilodeve&color=006bed)
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Pablo%20Danilo&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Dev.%20Front-End%20%7C%20Rob%C3%B3tica%20e%20STEAM%20%7C%20Tecnologia&descSize=18&descAlignY=70"/>
+
+<br/>
+<samp>
+Construindo interfaces modernas e soluções tecnológicas com foco em performance, usabilidade e aplicação prática.
+</samp>
+
+<br/><br/>
+
+</div>
+
 ## Sobre mim
 
 Sou Desenvolvedor Front-End, com forte interesse em criar interfaces modernas, funcionais e bem estruturadas. Minha paixão por tecnologia começou cedo, o que me levou a explorar programação e desenvolvimento de produtos digitais de forma contínua.
@@ -10,30 +23,24 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, aprofundando minh
 
 ## Minhas Skills
 
-**Aplicações e dados**
-
+### 📦 Aplicações e Dados
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=264DE4)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
+**Versionamento & Colaboração**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+### 🛠️ Ferramentas de Desenvolvimento
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=31A8FF)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=31A8FF)
 
 <br/>
 
