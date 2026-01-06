@@ -38,7 +38,11 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, aprofundando minh
 <br/>
 
 <a href="https://github.com/pdanilodev" title="Perfil do Danilo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdanilodev&theme=dracula&show_icons=true" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=pdanilodev&theme=dracula&show_icons=true"
+    alt="GitHub stats do Danilo"
+  />
 </a>
 
 ## Onde me encontrar
