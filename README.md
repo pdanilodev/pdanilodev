@@ -1,113 +1,47 @@
-<br><br><br>
+![](https://komarev.com/ghpvc/?username=pdanilodeve&color=006bed)
 
-<div align="center">
-  <img 
-    align="center" 
-    height="140" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
-  />
-</div>
+## Sobre mim
 
-<div align="center">
-  <b>`フ ロ ン ト エ ン ド`</b>
-  <samp>
-    <br>
-    Hi there! I'm <b>Pablo Danilo</b>
-  </samp>
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando {seu curso} no {faculdade}.
+- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
-<div align="center" width="100%">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Front-end+Developer;HTML+CSS+JavaScript;React+and+TypeScript;Building+clean+and+modern+interfaces;Be+welcome!" 
-    alt="Typing SVG"
-  />
-</div>
+## Minhas Skills
 
-<br>
+**Aplicações e dados**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Pablo_Danilo-blue" />
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
+**Utilidades**
 
-<br><br>
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
----
+**DevOps**
 
-### ✦ About me
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<samp>
+**Ferramentas de desenvolvimento**
 
-• 💻 Front-end Developer  
-• 🎨 Focused on modern, clean and responsive interfaces  
-• ⚡ Passionate about UI, UX and web performance  
-• 🧠 Constantly learning and improving  
-• 🌙 Lover of dark themes and minimal design  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop&logoColor=31A8FF)
 
-</samp>
+<br/>
 
----
+<a href="https://github.com/pdanilodev" title="Perfil do Danilo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdanilodev&theme=dracula&show_icons=true" />
+</a>
 
-<br>
+## Onde me encontrar
 
-<div align="center">
-  <img 
-    height="165" 
-    align="center" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=pdanilodev&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
-  />
-  <img 
-    height="180" 
-    align="center" 
-    alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&hide_border=true&title_color=f4cd7c&text_color=ffffff&bg_color=0d1117"
-  />
-</div>
-
----
-
-### ✦ Tech Stack
-
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-</div>
-
-<br><br>
-
----
-
-<details align="center">
-  <summary>
-    <samp><b>More Info</b></samp>
-  </summary>
-
-<br>
-
-### ✦ Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](pablodanilo2007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](pablo-danilo-974587335)
-[![GitHub](https://img.shields.io/badge/GitHub-755b25?style=for-the-badge&logo=github&logoColor=fff)](pdanilodev)
-
-</div>
-
-<br>
-</details>
-
----
-
-<div align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=pdanilodevB&style=flat-square&color=755b25" 
-    alt="Profile Views"
-  />
-</div>
-
-<br><br><br>
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/pablo-danilo-974587335/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablodanilo2007@gmail.com)](mailto:pablodanilo2007@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/pdanilode)
