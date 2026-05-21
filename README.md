@@ -46,9 +46,9 @@ const stack = {
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO">linkedin</a> &nbsp;·&nbsp;
-  <a href="https://SEU-PORTFOLIO.com">portfólio</a> &nbsp;·&nbsp;
-  <a href="mailto:SEU@EMAIL.com">e-mail</a>
+  <a href="https://linkedin.com/in/pdanilodev">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://https://pdanilodev.vercel.app">portfólio</a> &nbsp;·&nbsp;
+  <a href="mailto:pablodanilo2007@gmail.com">e-mail</a>
 </div>
 
 <br/>
