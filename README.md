@@ -4,54 +4,67 @@
 
 <br/>
 
+---
+
 ```js
-const pablo = {
-  role       : "Front-End Developer",
-  focus      : ["modern interfaces", "clean design", "best practices"],
-  background : ["robotics", "social projects", "tech & education"],
-  goal       : "design · performance · real impact",
+const sobre = {
+  quem     : "Desenvolvedor Front-End",
+  foco     : ["interfaces modernas", "clean design", "acessibilidade"],
+  origem   : ["robótica", "projetos sociais", "tech & educação"],
+  mindset  : "design · performance · impacto real",
 };
 ```
 
-<br/>
+---
+
+```js
+const stack = {
+  languages  : ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+  frameworks : ["React", "Next.js", "Tailwind CSS"],
+  tools      : ["Git", "GitHub", "Figma", "Vite"],
+  practices  : ["Responsive Design", "Clean Code", "Performance", "A11y"],
+};
+```
 
 ---
 
-**sobre**
-
-Desenvolvedor Front-End com foco em criar interfaces modernas, funcionais e bem estruturadas.
-Passei por equipes de robótica, projetos sociais e iniciativas de tecnologia e educação —
-experiências que moldaram minha visão sobre trabalho em equipe, liderança e resolução de problemas.
-
-Busco evoluir continuamente como dev, construindo soluções que unam design, performance e impacto real,
-sempre com foco em qualidade e aprendizado contínuo.
-
-<br/>
+```js
+const status = {
+  disponivel  : true,
+  aprendendo  : ["TypeScript", "Next.js", "CSS Animations"],
+  objetivo    : "construir soluções que unam design + performance",
+  // always learning ↑
+};
+```
 
 ---
 
 **github stats**
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pdanilodev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=388bfd&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=pdanilodev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=388bfd&count_private=true" />
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590" />
 </div>
-
-<br/>
 
 ---
 
 **contato**
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24"/>](https://linkedin.com/in/SEU-USUARIO)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU-USUARIO)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU@EMAIL.com)
+[<img src="https://img.shields.io/badge/-Portfólio-111827?style=flat-square&logo=vercel&logoColor=white" height="24"/>](https://SEU-PORTFOLIO.com)
+&nbsp;
+[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24"/>](https://instagram.com/SEU-USUARIO)
+&nbsp;
+[<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24"/>](mailto:SEU@EMAIL.com)
+
+</div>
 
 <br/>
 
 <div align="right">
-  <sub><code>always learning ↑</code></sub>
+  <code>// always learning ↑</code>
 </div>
