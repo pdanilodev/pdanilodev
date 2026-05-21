@@ -4,67 +4,55 @@
 
 <br/>
 
----
-
 ```js
-const sobre = {
-  quem     : "Desenvolvedor Front-End",
-  foco     : ["interfaces modernas", "clean design", "acessibilidade"],
-  origem   : ["robótica", "projetos sociais", "tech & educação"],
-  mindset  : "design · performance · impacto real",
+const pablo = {
+  role       : "Front-End Developer",
+  focus      : ["modern interfaces", "clean design", "best practices"],
+  background : ["robotics", "social projects", "tech & education"],
+  goal       : "design · performance · real impact",
 };
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 ```js
 const stack = {
-  languages  : ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-  frameworks : ["React", "Next.js", "Tailwind CSS"],
-  tools      : ["Git", "GitHub", "Figma", "Vite"],
-  practices  : ["Responsive Design", "Clean Code", "Performance", "A11y"],
+  core    : ["HTML5", "CSS3", "JavaScript"],
+  tools   : ["React", "Git", "Figma", "Vite"],
+  // learning → TypeScript · Next.js
 };
 ```
 
----
-
-```js
-const status = {
-  disponivel  : true,
-  aprendendo  : ["TypeScript", "Next.js", "CSS Animations"],
-  objetivo    : "construir soluções que unam design + performance",
-  // always learning ↑
-};
-```
+<br/>
 
 ---
 
-**github stats**
+<br/>
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=pdanilodev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=388bfd&count_private=true" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pdanilodev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590&icon_color=388bfd&count_private=true&rank_icon=github" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=7d8590" />
 </div>
 
+<br/>
+
 ---
 
-**contato**
+<br/>
 
 <div align="center">
-
-[<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24"/>](https://linkedin.com/in/SEU-USUARIO)
-&nbsp;
-[<img src="https://img.shields.io/badge/-Portfólio-111827?style=flat-square&logo=vercel&logoColor=white" height="24"/>](https://SEU-PORTFOLIO.com)
-&nbsp;
-[<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="24"/>](https://instagram.com/SEU-USUARIO)
-&nbsp;
-[<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24"/>](mailto:SEU@EMAIL.com)
-
+  <a href="https://linkedin.com/in/SEU-USUARIO">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://SEU-PORTFOLIO.com">portfólio</a> &nbsp;·&nbsp;
+  <a href="mailto:SEU@EMAIL.com">e-mail</a>
 </div>
 
 <br/>
 
 <div align="right">
-  <code>// always learning ↑</code>
+  <sub><code>// always learning ↑</code></sub>
 </div>
