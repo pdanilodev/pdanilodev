@@ -3,37 +3,136 @@
 </div>
 
 <br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pdanilodev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-```js
-const pablo = {
-  focus:  ["UI/UX", "design systems", "performance"],
-  stack:  ["React", "Next.js", "TypeScript", "Tailwind"],
-  open:   "freelance · full-time · collabs",
-};
-```
- 
----
- 
-**`// tech stack`**
- 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
- 
----
- 
-**`> got a project in mind?`**
- 
-I turn ideas into fast, beautiful interfaces.
-If you have something worth building — I want to hear about it.
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pdanilodev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://pdanilodev.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pdanilodev)
+  <a href="https://github.com/pdanilodev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/pdaniloo_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:pablodanilo2007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">
+  <em>🚀 About me</em>
+</h2>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="65%">
+      <p>
+        Hello There! <em><b>I'm Pablo Danilo</b></em>, a front-end developer and robotics enthusiast.
+        I enjoy creating beautiful, fast and useful interfaces, mainly focused on real projects, technology and impact.
+        Currently, I'm building web projects, FTC scouting tools, dashboards and digital solutions for robotics teams.
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <em><b>💻 Front-end Developer focused on UI/UX and performance</b></em>
+        <br/>
+        <em><b>🤖 Member of Space Tech FTC #23504</b></em>
+        <br/>
+        <em><b>📊 Building tools for robotics, scouting and team management</b></em>
+        <br/>
+        <em><b>⚡ Passionate about design, code and creative technology</b></em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">
+  <em>🛠️ Technologies</em>
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
+</p>
+
+<br/>
+
+<h2 align="center">
+  <em>💡 What I Develop</em>
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <em><b>🌐 Web interfaces and landing pages</b></em>
+        <br/>
+        <em><b>📈 FTC scouting systems and dashboards</b></em>
+        <br/>
+        <em><b>🧩 Chrome extensions and automation tools</b></em>
+        <br/>
+        <em><b>🤖 Robotics projects with design, strategy and performance</b></em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<br/>
+
+<h2 align="center">
+  <em>📊 Statistics</em>
+</h2>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pdanilodev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=17D465&hide_border=false" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdanilodev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=false" 
+    width="48%" 
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pdanilodev&bg_color=000000&color=ffffff&line=17D465&point=ffffff&area=true&hide_border=false" 
+    width="100%"
+  />
+</div>
+</div>
