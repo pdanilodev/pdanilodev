@@ -1,1 +1,1 @@
-<img width="2000" height="1366" alt="Frame 8" src="https://github.com/user-attachments/assets/f0707e7c-4ee2-42d3-9874-d62d8cc777a6" />
+<img width="2000" height="1366" alt="Frame 8" src="https://github.com/user-attachments/assets/bbf66242-6570-4dbd-8f7a-2d8cf3d9a768" />
